@@ -18,6 +18,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 // ok coy ini perubahan pertama
+// ini perubahan kedua
 public class MainActivity extends ActionBarActivity {
     // Remove the below line after defining your own ad unit ID.
     private static final String TOAST_TEXT = "Test ads are being shown. "
